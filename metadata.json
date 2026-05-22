@@ -1,0 +1,11 @@
+{
+  "name": "Academicians",
+  "description": "An online formal education and social platform for competitive homeschooling featuring classroom cohorting, SAT and Big Five placement, cooperative peer clubs, and AI-driven sentiment tutoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
